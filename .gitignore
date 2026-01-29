@@ -210,4 +210,4 @@ __marimo__/
 outputs/
 *.pt
 
-.skateboarder_pedestrian_dataset/
+skateboarder_pedestrian_dataset/
