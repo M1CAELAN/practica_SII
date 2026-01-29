@@ -1,0 +1,12 @@
+# Dataset configuration for YOLO
+path: D:/Users/micha/Desktop/курсач/практика СИИ/skateboarder_pedestrian_dataset/yolo_format_640
+train: images
+val: val
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: Skateboarder
+  1: Pedestrian
