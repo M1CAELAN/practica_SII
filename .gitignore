@@ -211,3 +211,4 @@ outputs/
 *.pt
 
 skateboarder_pedestrian_dataset/
+uploads/
